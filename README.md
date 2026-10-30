@@ -1,0 +1,1 @@
+Ubuntu Health AI + NutriMap Rwanda is a health-tech project focused on improving health education and nutrition awareness in Rwanda. It aims to combine a digital health education assistant with data-driven nutrition insights and interactive maps to support better public health understanding and decision-making.
